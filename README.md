@@ -5,7 +5,9 @@
 
 <!-- ANIMATED TYPING TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=800&lines=Backend+Engineer+Specializing+in+.NET+Core+⚡;Building+Scalable+and+Robust+APIs+🚀;Clean+Architecture+Enthusiast+🏗️;Full+Stack+Developer+with+Backend+Focus+💻" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer+Specializing+in+.NET+Core;Building+Scalable+and+Robust+APIs;Clean+Architecture+Enthusiast;Full+Stack+Developer+with+Backend+Focus&font=Fira%20Code&center=true&width=800&height=50&color=6366F1&vCenter=true&size=28&pause=1000" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- VISITOR COUNTER -->
@@ -22,7 +24,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-contribution-grid-snake-dark.svg">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <br>
 
@@ -31,7 +33,7 @@
 - 📚 Currently enrolled in **ITI .NET Full Stack Diploma**
 - 🏗️ Specialized in building **scalable web applications** and **RESTful APIs**
 - 🔧 Strong foundation in **database design**, **Entity Framework Core**, and **LINQ**
-- 💡 Experienced in **Clean Architecture** and **clean code principles**
+- 💡 Experienced in **clean architecture** and **clean code principles**
 - 🚀 Beginner in **full-stack development** with Angular and TypeScript
 - 📫 Contact: **imoztafa@gmail.com** | **+201550737836**
 - 📍 Location: **Cairo, Egypt** 🇪🇬
@@ -44,7 +46,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,nodejs,express,html,css,sass,tailwind,sqlserver,postgres,mongodb,docker,git,github,vscode,python,tensorflow&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,nodejs,express,html,css,sass,tailwind,postgres,mongodb,docker,git,github,vscode,python,tensorflow&theme=dark&perline=10" />
   </a>
 </p>
 
@@ -108,19 +110,4 @@
 ### 🎨 **Frontend Development**
 <p align="center">
 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-</p>
-
-### 🛠️ **DevOps & Tools**
-<p align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007
+<img src="https://img.shields.io/badge/Angular-DD0031
