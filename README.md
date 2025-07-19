@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mostafa%20Ibrahim%20ElSayed&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20|%20.NET%20Core%20Developer%20|%20Full%20Stack%20Developer&descAlignY=62&descSize=22" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mostafa%20Ibrahim&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20|%20.NET%20Core%20Developer%20|%20Full%20Stack%20Developer&descAlignY=62&descSize=22" alt="header" />
 </div>
 
 <!-- ANIMATED TYPING TEXT -->
@@ -35,7 +35,7 @@
 - 🔧 Strong foundation in **database design**, **Entity Framework Core**, and **LINQ**
 - 💡 Experienced in **clean architecture** and **clean code principles**
 - 🚀 Exploring **full-stack development** with Angular and TypeScript
-- 📫 Contact: **imoztafa@gmail.com** | **+201550737836**
+- 📫 Contact: **imoztafa@gmail.com** | **+201550737836** | [**LinkedIn**](https://www.linkedin.com/in/moztafaa/)
 - 📍 Location: **Cairo, Egypt** 🇪🇬
 - 🌐 Languages: **Arabic (Native), English (B1)**
 
@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,nodejs,express,html,css,sass,tailwind,postgres,mongodb,docker,git,github,vscode,python,tensorflow&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,nodejs,express,html,css,sass,tailwind,postgres,mongodb,docker,git,github,vscode,rider,python,tensorflow&theme=dark&perline=10" />
   </a>
 </p>
 
