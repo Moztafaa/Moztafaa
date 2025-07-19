@@ -50,55 +50,13 @@
   </a>
 </p>
 
-<!-- WAKATIME STATS SECTION -->
-<h2 align="center">⏱️ WakaTime Coding Stats</h2>
-
-<p align="center">
-  <a href="https://wakatime.com/@Moztafaa">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Moztafaa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&layout=compact" alt="WakaTime stats" />
-  </a>
-</p>
-
-<!-- WAKATIME DETAILED STATS -->
-<details>
-<summary align="center"><b>📊 WakaTime Detailed Stats</b></summary>
-<br>
-
-<!--START_SECTION:waka-->
-<p align="center">
-  <img src="https://wakatime.com/share/@Moztafaa/fb7ca9a0-3de0-42df-890a-73c5c2b1da2e.svg" height="400" alt="WakaTime Activity" />
-</p>
-
-<p align="center">
-  <b>📈 Most Used Languages</b><br>
-  <img src="https://wakatime.com/share/@Moztafaa/c7e04f0e-fb5a-4e7f-8b7f-93c5e9b7a9e9.svg" height="400" alt="Languages" />
-</p>
-<!--END_SECTION:waka-->
-
-</details>
-
-<!-- GITHUB STATS SECTION -->
-<h2 align="center">📊 GitHub Statistics</h2>
+<!-- GITHUB STATS WITH WAKATIME -->
+<h2 align="center">📊 Coding Statistics</h2>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Moztafaa&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Mostafa Mohamed github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moztafaa&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Mostafa Mohamed top languages" />
+  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moztafaa&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
+  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Moztafaa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&layout=compact" alt="WakaTime stats" />
 </div>
-
-<!-- STREAK STATS -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moztafaa&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp; Contribution Graph
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moztafaa&custom_title=Mostafa's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=6366F1&line=6366F1&point=6366F1&area_color=6366F1&title_color=ffffff&area=true" alt="GitHub Activity Graph" />
-</p>
-
 <details>
 <summary><b>🔧 Detailed Technology Stack</b></summary>
 <br>
