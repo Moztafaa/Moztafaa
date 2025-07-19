@@ -54,8 +54,8 @@
 <h2 align="center">📊 Coding Statistics</h2>
 
 <div align="center">
-  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moztafaa&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
-  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Moztafaa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&layout=compact" alt="WakaTime stats" />
+  <img width="51%" height="300px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Moztafaa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&layout=compact" alt="WakaTime stats" />
+  <img width="47%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moztafaa&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
 </div>
 <details>
 <summary><b>🔧 Detailed Technology Stack</b></summary>
