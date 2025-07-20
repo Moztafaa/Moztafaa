@@ -10,39 +10,26 @@
   </a>
 </p>
 
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Moztafaa&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Moztafaa?label=Followers&style=for-the-badge&color=blue&logo=github" alt="Followers" />
-</p>
-
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ABOUT ME SECTION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 <br>
+  <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Moztafaa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&layout=compact" alt="WakaTime stats" />
+  
+🎓 **Bachelor of Computers and Artificial Intelligence** - Cairo University 2024 <br>
+👨‍💻 **Backend Developer** with expertise in **.NET Core** and **C#** <br>
+📚 Currently enrolled in **ITI .NET Full Stack** <br>
+🏗️ Specialized in building **scalable web applications** and **RESTful APIs** <br>
+🔧 Strong foundation in **database design**, **Entity Framework Core**, and **LINQ** <br>
+💡 Experienced in **clean architecture** and **clean code principles** <br>
+🚀 Exploring **full-stack development** with Angular and TypeScript <br>
+📫 Contact: **imoztafa@gmail.com** <br>
 
-- 👨‍💻 **Backend Developer** with expertise in **.NET Core** and **C#**
-- 🎓 **Bachelor of Computers and Artificial Intelligence** - Cairo University (2020-2024)
-- 📚 Currently enrolled in **ITI .NET Full Stack Diploma**
-- 🏗️ Specialized in building **scalable web applications** and **RESTful APIs**
-- 🔧 Strong foundation in **database design**, **Entity Framework Core**, and **LINQ**
-- 💡 Experienced in **clean architecture** and **clean code principles**
-- 🚀 Exploring **full-stack development** with Angular and TypeScript
-- 📫 Contact: **imoztafa@gmail.com** | **+201550737836** | [**LinkedIn**](https://www.linkedin.com/in/moztafaa/)
-- 📍 Location: **Cairo, Egypt** 🇪🇬
-- 🌐 Languages: **Arabic (Native), English (B1)**
 
 <br clear="both">
 
 <!-- TECH STACK SECTION -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="left">🧰 Tech Stack & Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -51,12 +38,12 @@
 </p>
 
 <!-- GITHUB STATS WITH WAKATIME -->
-<h2 align="center">📊 Coding Statistics</h2>
-
+<h2 align="left">📊 Stats</h2>
 <div align="center">
-  <img width="51%" height="300px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Moztafaa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&layout=compact" alt="WakaTime stats" />
-  <img width="47%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moztafaa&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Most Used Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Moztafaa&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Mostafa Mohamed github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moztafaa&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Mostafa Mohamed top languages" />
 </div>
+
 <details>
 <summary><b>🔧 Detailed Technology Stack</b></summary>
 <br>
