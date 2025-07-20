@@ -19,7 +19,7 @@
 🎓 **Bachelor of Computers and AI** - Cairo University 2024 <br>
 👨‍💻 **Backend Developer** with expertise in **.NET Core** and **C#** <br>
 📚 Currently enrolled in **ITI .NET Full Stack** <br>
-🏗️ Specialized in building **scalable web applications** and **RESTful APIs** <br>
+🏗️ Specialized in building **web applications** and **RESTful APIs** <br>
 🔧 Strong foundation in **database design**, **EF Core**, and **LINQ** <br>
 💡 Experienced in **clean architecture** and **clean code principles** <br>
 🚀 Exploring **full-stack development** with Angular and TypeScript <br>
