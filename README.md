@@ -10,8 +10,6 @@
   </a>
 </p>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
   <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Moztafaa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&layout=compact" alt="WakaTime stats" />
