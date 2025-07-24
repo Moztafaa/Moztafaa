@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,nodejs,express,html,css,sass,tailwind,postgres,mongodb,docker,git,github,vscode,rider,python,tensorflow&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,angular,nodejs,express,html,css,tailwind,postgres,mongodb,docker,git,github,vscode,rider,neovim,python,tensorflow&theme=dark&perline=10" />
   </a>
 </p>
 
