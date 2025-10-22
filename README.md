@@ -10,19 +10,17 @@
   </a>
 </p>
 
-
 <br>
-  <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Moztafaa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&layout=compact" alt="WakaTime stats" />
-  
-🎓 **Bachelor of Computers and AI** - Cairo University 2024 <br>
-👨‍💻 **Backend Developer** with expertise in **.NET Core** and **C#** <br>
-📚 Currently enrolled in **ITI .NET Full Stack** <br>
-🏗️ Specialized in building **web applications** and **RESTful APIs** <br>
-🔧 Strong foundation in **database design**, **EF Core**, and **LINQ** <br>
-💡 Experienced in **clean architecture** and **clean code principles** <br>
-🚀 Exploring **full-stack development** with Angular and TypeScript <br>
-📫 Contact: **imoztafa@gmail.com** <br>
+<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Moztafaa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&layout=compact" alt="WakaTime stats" />
 
+🎓 **Bachelor of Computers and Artificial Intelligence** - Cairo University 2024 <br>
+👨‍💻 **Backend Developer** with expertise in **.NET Core** and **C#** <br>
+📚 Completed **ITI .NET Full Stack** training (Jul 2025 - Oct 2025) <br>
+🏗️ Built multiple **web applications** and **RESTful APIs** <br>
+🔧 Strong foundation in **database design**, **Entity Framework Core**, and **LINQ** <br>
+💡 Proficient in **clean architecture** and **clean code principles** <br>
+🚀 Experienced in **full-stack development** with Angular and TypeScript <br>
+📫 Contact: **imoztafa@gmail.com** <br>
 
 <br clear="both">
 
@@ -38,7 +36,7 @@
 <!-- GITHUB STATS WITH WAKATIME -->
 <h2 align="left">📊 Stats</h2>
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Moztafaa&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Mostafa Mohamed github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Moztafaa&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Mostafa Mohamed GitHub stats" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moztafaa&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Mostafa Mohamed top languages" />
 </div>
 
@@ -97,7 +95,6 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-
 <h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -113,4 +110,9 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white" />
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+</p>
+
+</details>
