@@ -16,11 +16,7 @@ public class Developer
 }
 ```
 
-<div align="center">
-  <h3>> SYSTEM_STATS.EXE</h3>
-  <!-- Linked to the generated metrics file in the 'portfolio' repo -->
-  <img src="https://github.com/Moztafaa/portfolio/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-</div>
+
 
 <br/>
 
@@ -39,6 +35,12 @@ $ ls ./skills/frontend
 $ ls ./skills/devops
 > Docker  Git  GitHub Actions  Azure
 ```
+
+<div align="center">
+  <h3>> SYSTEM_STATS.EXE</h3>
+  <!-- Linked to the generated metrics file in the 'portfolio' repo -->
+  <img src="https://github.com/Moztafaa/portfolio/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</div>
 
 <!-- Skill Icons (Optional - Keeping it clean or using simple row) -->
 <p align="center">
