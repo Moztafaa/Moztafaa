@@ -1,0 +1,77 @@
+<svg width="495" height="320" viewBox="0 0 495 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #6366F1; }
+    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .stat { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .percent { font: 400 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+  </style>
+
+  <rect x="0.5" y="0.5" rx="4.5" width="494" height="319" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- Header -->
+  <text x="25" y="35" class="header">📊 WakaTime Stats (All Time)</text>
+  <text x="25" y="52" class="percent">Total: 455 hrs 43 mins</text>
+
+  <!-- C# -->
+  <g transform="translate(25, 70)">
+    <text class="lang-name" y="12">C#</text>
+    <text class="stat" x="420" y="12" text-anchor="end">240 hrs 11 mins</text>
+    <rect x="0" y="18" width="445" height="8" rx="4" fill="#1e293b"/>
+    <rect x="0" y="18" width="229.6" height="8" rx="4" fill="#178600"/>
+    <text class="percent" x="448" y="25">51.59%</text>
+  </g>
+
+  <!-- TypeScript -->
+  <g transform="translate(25, 105)">
+    <text class="lang-name" y="12">TypeScript</text>
+    <text class="stat" x="420" y="12" text-anchor="end">54 hrs 59 mins</text>
+    <rect x="0" y="18" width="445" height="8" rx="4" fill="#1e293b"/>
+    <rect x="0" y="18" width="52.5" height="8" rx="4" fill="#3178c6"/>
+    <text class="percent" x="448" y="25">11.81%</text>
+  </g>
+
+  <!-- HTML -->
+  <g transform="translate(25, 140)">
+    <text class="lang-name" y="12">HTML</text>
+    <text class="stat" x="420" y="12" text-anchor="end">33 hrs 47 mins</text>
+    <rect x="0" y="18" width="445" height="8" rx="4" fill="#1e293b"/>
+    <rect x="0" y="18" width="32.3" height="8" rx="4" fill="#e34c26"/>
+    <text class="percent" x="448" y="25">7.26%</text>
+  </g>
+
+  <!-- SQL -->
+  <g transform="translate(25, 175)">
+    <text class="lang-name" y="12">SQL</text>
+    <text class="stat" x="420" y="12" text-anchor="end">24 hrs 38 mins</text>
+    <rect x="0" y="18" width="445" height="8" rx="4" fill="#1e293b"/>
+    <rect x="0" y="18" width="23.5" height="8" rx="4" fill="#e38c00"/>
+    <text class="percent" x="448" y="25">5.29%</text>
+  </g>
+
+  <!-- JSON -->
+  <g transform="translate(25, 210)">
+    <text class="lang-name" y="12">JSON</text>
+    <text class="stat" x="420" y="12" text-anchor="end">21 hrs 3 mins</text>
+    <rect x="0" y="18" width="445" height="8" rx="4" fill="#1e293b"/>
+    <rect x="0" y="18" width="20.1" height="8" rx="4" fill="#292929"/>
+    <text class="percent" x="448" y="25">4.52%</text>
+  </g>
+
+  <!-- JavaScript -->
+  <g transform="translate(25, 245)">
+    <text class="lang-name" y="12">JavaScript</text>
+    <text class="stat" x="420" y="12" text-anchor="end">17 hrs 16 mins</text>
+    <rect x="0" y="18" width="445" height="8" rx="4" fill="#1e293b"/>
+    <rect x="0" y="18" width="16.5" height="8" rx="4" fill="#f1e05a"/>
+    <text class="percent" x="448" y="25">3.71%</text>
+  </g>
+
+  <!-- Markdown -->
+  <g transform="translate(25, 280)">
+    <text class="lang-name" y="12">Markdown</text>
+    <text class="stat" x="420" y="12" text-anchor="end">11 hrs 58 mins</text>
+    <rect x="0" y="18" width="445" height="8" rx="4" fill="#1e293b"/>
+    <rect x="0" y="18" width="11.4" height="8" rx="4" fill="#083fa1"/>
+    <text class="percent" x="448" y="25">2.57%</text>
+  </g>
+</svg>
