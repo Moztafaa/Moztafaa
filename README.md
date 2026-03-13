@@ -11,8 +11,7 @@
 </p>
 
 <br>
-<img align="right" alt="WakaTime Stats" width="420" src="./wakatime-stats.svg" />
-
+<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=Moztafaa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&layout=compact" alt="WakaTime stats" />
 🎓 **Bachelor of Computers and Artificial Intelligence** - Cairo University 2024 <br>
 👨‍💻 **Backend Developer** with expertise in **.NET Core** and **C#** <br>
 📚 Completed **ITI .NET Full Stack** graduate (Jul 2025 - Nov 2025) <br>
